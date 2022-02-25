@@ -8,7 +8,8 @@ Principle Component Analysis modes to approximate up to certain percentage; and 
 model with cross validation for classification.
 ___
 ## Files included
-1. One jpynb File: AMAMTH482_HW1_LangQin.jpynb - code to complete the project
-2. Two PDF Files: AMATH482HW1.pdf - report for project; HW1.pdf - homework specification
-3. README.md
+1. One jpynb File: AMAMTH482_HW2_LangQin.jpynb - code to complete the project
+2. Two PDF Files: AMATH482HW2.pdf - report for project; HW2.pdf - homework specification
+3. Two npy Files: MNIST_test_set.npy - testing set; MNIST_training_set.npy - training set
+4. README.md
 
